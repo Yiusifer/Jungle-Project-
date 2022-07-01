@@ -31,7 +31,7 @@
             data-bs-toggle="dropdown"
             aria-expanded="false"
           > %>
-            <%# Categories %>
+            <%#   ories %>
           <%# </a>
           <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDropdown"> %>
             <% Category.all.each do |category| %>
@@ -59,6 +59,7 @@
             <li><%= link_to 'Products', [:admin, :products], class: "nav-link" %></li>
           </ul>
         </li>
+     
         <li class="nav-item end-0">
           <%= link_to cart_path, class: "nav-link " do %> <%= fa_icon "shopping-cart" %>
           My Cart (<%= cart.size %>) <% end %>
@@ -83,6 +84,6 @@ const gnr = () => {
   };
   const title = document.querySelector("header.hero");
   title.addEventListener("dblclick", gnr);
-  
+
 })()
   </script>
