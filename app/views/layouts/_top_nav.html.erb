@@ -72,7 +72,7 @@
           Register
           <% end %>
 
-        <% if !@current_user %>
+        <% if !current_user  %>
           <li class="nav-item end-0">
               <%= link_to login_path, class: "nav-link" do%>
                 Login
@@ -80,7 +80,7 @@
           </li>
         <% else %>
            <li class="nav-item end-0">
-           Hello, <%= @current_user.first_name %>
+           Hello, <%= current_user.first_name %>
            </li>
         <% end %>
 
