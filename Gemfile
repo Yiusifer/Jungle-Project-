@@ -71,6 +71,10 @@ group :development do
 end
 
 group :development, :test do
+
+  gem "cypress-rails"
+  gem 'database_cleaner-active_record'
+  
   gem 'rspec-rails', '~> 5.1'
   gem 'net-smtp', require: false
   # Adds support for Capybara system testing and selenium driver
