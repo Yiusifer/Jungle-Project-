@@ -8,7 +8,7 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 ![Website homepage](https://github.com/Yiusifer/Jungle-Project-/blob/master/public/images/homepage.png?raw=true)
 
 **Items for sale within the homepage**
-![Items for sale within homepage]https://github.com/Yiusifer/Jungle-Project-/blob/master/public/images/store-content.png?raw=true)
+![Items for sale within homepage](https://github.com/Yiusifer/Jungle-Project-/blob/master/public/images/store-content.png?raw=true)
 
 **Checkout page with option to edit order**
 ![Checkout page](https://github.com/Yiusifer/Jungle-Project-/blob/master/public/images/checkout.png?raw=true)
