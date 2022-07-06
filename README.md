@@ -2,6 +2,23 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
+## Screenshots
+
+**Website's homepage**
+![Website homepage]()
+
+**Items for sale within the homepage**
+![Items for sale within homepage]()
+
+**Checkout page with option to edit order**
+![Checkout page]()
+
+**Registering as a new user**
+![Register new user]()
+
+**Navbar showing the name of the logged in user rather than 'login' button**
+![Logged in user]()
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
