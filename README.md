@@ -5,19 +5,19 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 ## Screenshots
 
 **Website's homepage**
-![Website homepage]()
+![Website homepage](https://github.com/Yiusifer/Jungle-Project-/blob/master/public/images/homepage.png?raw=true)
 
 **Items for sale within the homepage**
-![Items for sale within homepage]()
+![Items for sale within homepage]https://github.com/Yiusifer/Jungle-Project-/blob/master/public/images/store-content.png?raw=true)
 
 **Checkout page with option to edit order**
-![Checkout page]()
+![Checkout page](https://github.com/Yiusifer/Jungle-Project-/blob/master/public/images/checkout.png?raw=true)
 
 **Registering as a new user**
-![Register new user]()
+![Register new user](https://github.com/Yiusifer/Jungle-Project-/blob/master/public/images/user-register.png?raw=true)
 
 **Navbar showing the name of the logged in user rather than 'login' button**
-![Logged in user]()
+![Logged in user](https://github.com/Yiusifer/Jungle-Project-/blob/master/public/images/logged-in-user.png?raw=true)
 
 ## Setup
 
