@@ -4,8 +4,7 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 
 ## Screenshots
 
-
-
+** **
 
 **Items for sale within the homepage**
 ![Items for sale within homepage](https://github.com/Yiusifer/Jungle-Project-/blob/master/public/images/store-content.png?raw=true)
